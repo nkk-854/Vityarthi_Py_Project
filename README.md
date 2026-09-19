@@ -71,8 +71,8 @@ If `python` is not recognised, try `python3` and `pip3` instead (common on macOS
 If the project is on GitHub, clone it:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/nkk-854/Vityarthi_Py_Project
+cd Vityarthi_Py_Project
 ```
 
 Otherwise, download the files and open a terminal in the folder containing `main.py`.
