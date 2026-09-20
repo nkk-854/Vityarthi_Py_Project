@@ -140,10 +140,10 @@ You should see:
 ```
 File 'record.json' not found. Creating a new one...
 ------Welcome------
-1. Add Credentials
-2. View Credentials
-3. Update Credentials
-4. To create CSV File
+1. Add Student Detail
+2. View Student Detail
+3. Update Student Detail
+4. Export Student Detail to CSV File
 5. Exit
 ```
 
