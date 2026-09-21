@@ -141,9 +141,9 @@ You should see:
 File 'record.json' not found. Creating a new one...
 ------Welcome------
 1. Add Student Detail
-2. View Student Detail
+2. View Student Details
 3. Update Student Detail
-4. Export Student Detail to CSV File
+4. Export Student Details to CSV File
 5. Exit
 ```
 
