@@ -58,9 +58,9 @@ sms = Student_Grade_Management_System()
 while True:
     print("------Welcome------")
     print("1. Add Student Detail")
-    print("2. View Students Detail")
+    print("2. View Students Details")
     print("3. Update Students Detail")
-    print("4. Export Students Detail to CSV File")
+    print("4. Export Students Details to CSV File")
     print("5. Exit")
 
     try:
