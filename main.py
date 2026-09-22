@@ -88,7 +88,7 @@ while True:
         scores = sms.to_view_score()
         if not scores:
             print("No records found.")
-            break
+            
         else:
             df = DataFrame(scores)
             print("\n----- Student Records Table -----")
