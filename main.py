@@ -93,7 +93,7 @@ while True:
             df = DataFrame(scores)
             print("\n----- Student Records Table -----")
             print(df.to_string(index=False))
-            break
+           
 
     elif Choice == 3:
         nam = input("Enter Name of student to update: ")
